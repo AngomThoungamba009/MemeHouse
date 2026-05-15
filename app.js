@@ -56,7 +56,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "ANGOM THOUNGAMBA MEITEI",
     roll: "NDUI-BScCS-009", course: "B.Sc. Computer Science", section: "BSc CS",
-    meme: null, reason: null },
+    meme: "images/NDUI-BScCS-009", reason: "phoebe chubi" },
   { name: "AKOIJAM YOIHENBA MEETEI",
     roll: "NDUI-BScCS-010", course: "B.Sc. Computer Science", section: "BSc CS",
     meme: null, reason: null },
